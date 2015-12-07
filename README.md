@@ -12,7 +12,7 @@ To use headerify, first install it:
 $ npm i --save-dev headerify
 ```
 
-Then, wherever you've configured your browserify build, add the flags:
+Then, wherever you've configured your browserify build, add the flag:
 
 ```
 -p headerify
